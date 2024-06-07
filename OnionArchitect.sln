@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appication", "Appication\Appication.csproj", "{0E121BC9-E73A-43DB-A87B-0CF19939AD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Appication\Application.csproj", "{0E121BC9-E73A-43DB-A87B-0CF19939AD21}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{D16EB170-D54C-4AD3-A662-A49569E3ABE9}"
 EndProject
@@ -11,13 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B753B41F-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{86202AE8-F597-4429-B1CF-51FBFDA26DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5021E15E-9761-49F7-B980-6CDA3741851E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5021E15E-9761-49F7-B980-6CDA3741851E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{1EED06E0-721F-4ACF-8B95-2828C685775F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretWebAPI", "ETicaretWebAPI\ETicaretWebAPI.csproj", "{075998FA-92F8-4DD5-A6FA-F2957A9E2599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretWebAPI", "ETicaretWebAPI\ETicaretWebAPI.csproj", "{075998FA-92F8-4DD5-A6FA-F2957A9E2599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistance2\Persistence.csproj", "{237AC80C-4569-41FA-B6F0-222581C01049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistance2\Persistence.csproj", "{237AC80C-4569-41FA-B6F0-222581C01049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
